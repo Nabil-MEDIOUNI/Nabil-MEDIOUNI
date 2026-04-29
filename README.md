@@ -10,4 +10,4 @@ I occasionally write 📝 about software engineering, trading, and the things I 
 
 ### Getting in touch
 
-🌐 [nabil-mediouni.dev](https://github.com/Nabil-MEDIOUNI)
+[nabil-mediouni.dev](https://github.com/Nabil-MEDIOUNI)
